@@ -113,7 +113,7 @@ export const mockAccounts: Account[] = [
     transaction_history: [
       {
         transaction_id: 'TXN001',
-        dateTime: 'June 11 2024, 3:32:32 am',
+        dateTime: 'June 11 2020, 3:32:32 am',
         description: "wire transfer from DALE CONSTRUCTION LIMITED",
         status: "Success",
         amount_usd: 250000.0,
@@ -121,7 +121,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN002',
-        dateTime: 'March 23 2024, 3:32:32 am',
+        dateTime: 'March 23 2020, 3:32:32 am',
         description: "Sinlair's Store - Trx",
         status: "Success",
         amount_usd: 450200.0,
@@ -129,7 +129,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN003',
-        dateTime: 'March 20 2024, 2:02:11 am',
+        dateTime: 'January 20 2020, 2:02:11 am',
         description: 'Justin Loci',
         status: "Success",
         amount_usd: 120000.21,
@@ -137,7 +137,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN004',
-        dateTime: 'February 16 2024, 10:02:22 pm',
+        dateTime: 'November 16 2019, 10:02:22 pm',
         description: 'Transfer',
         status: "Success",
         amount_usd: 300000.0,
@@ -145,7 +145,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN005',
-        dateTime: 'February 8 2024, 1:02:00 pm',
+        dateTime: 'July 8 2019, 1:02:00 pm',
         description: 'Payment',
         status: "Success",
         amount_usd: 735000.0,
@@ -153,23 +153,15 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN006',
-        dateTime: 'February 1 2024, 8:15:00 am',
-        description: 'Online Purchase',
-        status: "Success",
-        amount_usd: 1575000.0,
-        account_no: "****2334",
-      },
-      {
-        transaction_id: 'TXN007',
-        dateTime: 'January 5 2024, 12:35:00 pm',
+        dateTime: 'August 5 2018, 12:35:00 pm',
         description: 'ATM Withdrawal',
         status: "Success",
         amount_usd: 1750.0,
         account_no: "****3213",
       },
       {
-        transaction_id: 'TXN008',
-        dateTime: 'January 1 2024, 4:18:00 pm',
+        transaction_id: 'TXN0087',
+        dateTime: 'May 23 2018, 4:18:00 pm',
         description: 'Transfer',
         status: "Success",
         amount_usd: 638000.0,
