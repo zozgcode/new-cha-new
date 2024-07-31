@@ -76,8 +76,8 @@ export const mockAccounts: Account[] = [
   {
     account_id: 'ACC002',
     holder: {
-      firstName: 'Tracey',
-      lastName: 'Julian',
+      firstName: 'Micheal',
+      lastName: 'Wiggins',
       jointNames: '',
       username: 'Tracey4122',
       password: 'ilovedennie123',

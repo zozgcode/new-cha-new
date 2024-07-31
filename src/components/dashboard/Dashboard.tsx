@@ -62,9 +62,6 @@ export default function Dashboard() {
             >
               Send money
             </Link>
-            <div className="p-[5px_20px] rounded-full bg-white text-[#117aca] text-[12px]">
-              Pay bills
-            </div>
           </div>
         </p>
       </div>
